@@ -1,0 +1,11 @@
+package com.java.practice;
+
+import java.util.ArrayList;
+
+public class A {
+	public static void main() {
+		ArrayList a = new ArrayList<>();
+		a.add(Integer.valueOf(1));
+		a.add("Test");
+	}
+}

@@ -1,0 +1,7 @@
+package com.java.practice;
+
+import java.util.Collection;
+
+public class A implements Collection<E> {
+
+}

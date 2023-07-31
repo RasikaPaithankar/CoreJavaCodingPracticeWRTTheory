@@ -1,0 +1,22 @@
+package com.java.practice.linkedlist;
+
+public class LL {
+	
+	Node head;
+	
+	public class Node{
+		String data;
+		Node next;
+		
+		public Node(String data) {
+			data = data;
+			next = null;
+		}
+	}
+	
+	
+	public static void main(String[] args) {
+
+	}
+
+}

@@ -1,0 +1,13 @@
+package com.java.practice.one;
+
+
+public class PrintListOfPrimeNumber {
+	public static void printListofPrimeNumbers(int min, int max) {
+		
+	}
+
+	public static void main(String[] args) {
+		printListofPrimeNumbers(4,10);
+	}
+
+}

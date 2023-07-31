@@ -1,0 +1,9 @@
+package com.java.practice.one;
+
+public class RecusionFebSeq {
+
+	public static void main(String[] args) {
+		fibSeq();
+	}
+
+}

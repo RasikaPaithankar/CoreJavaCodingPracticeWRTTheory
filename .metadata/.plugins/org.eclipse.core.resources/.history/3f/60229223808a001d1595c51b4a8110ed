@@ -1,0 +1,19 @@
+package com.java.practice.one;
+
+public class PrimeNumber {
+
+	public static void isPrimeNumber(int i) {
+		if(i > 1 && i%2 != 0) {
+			System.out.println("It's a prime number.");
+		} else {
+			System.out.println("It's not a prime number.");
+		}
+	}
+	
+	public static void main(String[] args) {
+		isPrimeNumber(23);
+		isPrimeNumber(1);
+		isPrimeNumber(2);
+	}
+
+}

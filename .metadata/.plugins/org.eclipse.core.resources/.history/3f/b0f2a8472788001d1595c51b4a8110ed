@@ -1,0 +1,16 @@
+package com.java.practice.one;
+
+public class ContainsVowels {
+	
+	public static void isContainVowel(String s) {
+		
+	}
+	
+
+	public static void main(String[] args) {
+		
+		isContainVowel("Hello");
+
+	}
+
+}

@@ -1,0 +1,25 @@
+package com.java.practice.one;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
+public class PrintListOfPrimeNumber {
+	public static void printListofPrimeNumbers(int s, int e) {
+		List arr = new ArrayList<Integer>(); 
+		for(int i = 2; i > s && i < e; i++) {
+			if(s % i != 0) {
+				arr.add(s);
+			}
+			s++;
+		}
+		for (Object object : arr) {
+			System.out.println(object);
+		}
+	}
+
+	public static void main(String[] args) {
+		printListofPrimeNumbers(3,10);
+	}
+
+}

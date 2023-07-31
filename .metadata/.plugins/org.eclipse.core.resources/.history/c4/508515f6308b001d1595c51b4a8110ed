@@ -1,0 +1,13 @@
+package com.java.practice.one;
+
+public class FindFactorial {
+	
+	public static void factorial(int i) {
+		
+	}
+
+	public static void main(String[] args) {
+		factorial(5);
+	}
+
+}

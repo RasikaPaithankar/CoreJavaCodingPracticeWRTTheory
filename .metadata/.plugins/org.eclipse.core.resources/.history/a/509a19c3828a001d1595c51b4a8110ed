@@ -1,0 +1,17 @@
+package com.java.practice.one;
+
+import java.util.ArrayList;
+
+public class PrintListOfPrimeNumber {
+	public static void printListofPrimeNumbers(int s, int e) {
+		List arr = new arrayList<int>(); 
+		for(int i = s; i != e; i++) {
+			
+		}
+	}
+
+	public static void main(String[] args) {
+		printListofPrimeNumbers(1,10);
+	}
+
+}

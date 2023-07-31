@@ -1,0 +1,15 @@
+package com.java.practice.one;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class PrintListOfPrimeNumber {
+	public static void printListofPrimeNumbers(int min, int max) {
+		if()
+	}
+
+	public static void main(String[] args) {
+		printListofPrimeNumbers(3,10);
+	}
+
+}

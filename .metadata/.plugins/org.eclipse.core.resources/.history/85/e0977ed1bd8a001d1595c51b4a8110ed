@@ -1,0 +1,17 @@
+package com.java.practice.one;
+
+public class RecusionFebSeq {
+	
+	public static int fibSeq(int n) {
+		if(n == 1 || n == 2) {
+			return 1;
+		} else {
+			return (fibSeq(n-1)+fibSeq(n-2));
+		}
+	}
+
+	public static void main(String[] args) {
+		System.out.print(fibSeq(5));
+	}
+
+}

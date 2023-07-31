@@ -1,0 +1,23 @@
+package com.java.practice.one;
+
+public class ContainsVowels {
+	
+	
+	
+	public static void isContainVowel(String s) {
+		boolean r = false;
+		char[] ch = {'a', 'e', 'i', 'o', 'u'};
+		CharSequence cs = aeiou;
+		for(int i=0; i<= 5; i++) {
+			r = s.contains(ch[i]);
+		}
+	}
+	
+
+	public static void main(String[] args) {
+		
+		isContainVowel("Hello");
+
+	}
+
+}

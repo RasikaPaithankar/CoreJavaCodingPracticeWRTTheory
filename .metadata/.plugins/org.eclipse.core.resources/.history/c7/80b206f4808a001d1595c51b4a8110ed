@@ -1,0 +1,16 @@
+package com.java.practice.one;
+
+public class PrimeNumber {
+
+	public static void isPrimeNumber(int i) {
+		boolean b = false;
+		if(i ==  )
+	}
+	
+	public static void main(String[] args) {
+		System.out.println(isPrimeNumber(23));
+		isPrimeNumber(1);
+		isPrimeNumber(2);
+	}
+
+}

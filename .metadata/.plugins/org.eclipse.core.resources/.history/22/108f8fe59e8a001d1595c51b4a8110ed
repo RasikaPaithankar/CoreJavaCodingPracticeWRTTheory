@@ -1,0 +1,9 @@
+package com.java.practice.one;
+
+public class FibonacciSequence {
+
+	public static void main(String[] args) {
+		fabonacciSeq(10);
+	}
+
+}

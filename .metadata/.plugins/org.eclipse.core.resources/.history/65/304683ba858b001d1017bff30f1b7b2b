@@ -1,0 +1,16 @@
+package com.java.practice.linkedlist;
+
+public class LinkedList {
+	Node n;
+	
+	static class Node() {
+		
+	}
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
